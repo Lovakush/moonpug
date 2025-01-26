@@ -53,7 +53,7 @@ const Home = () => {
       {/* Buy Button */}
       <div className="fixed bottom-4 right-4 md:relative md:bottom-0 md:right-0">
         <a
-          href="#"
+          href="https://pump.fun/coin/DqWf15Ep924FRsz3zYZoGQSDbmS5JWZ95L6X6pKnpump"
           className="px-6 py-3 text-lg sm:text-xl bg-yellow-500 hover:bg-yellow-400 text-gray-900 font-bold rounded-lg transition-all duration-300 shadow-md"
         >
           Buy Now
