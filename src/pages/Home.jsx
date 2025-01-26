@@ -8,7 +8,7 @@ const Home = () => {
 
   // Function to handle copying the token address
   const handleCopy = () => {
-    navigator.clipboard.writeText("0x1234567890abcdef1234567890abcdef12345678");
+    navigator.clipboard.writeText("will add soon");
     setCopied(true);
     setTimeout(() => setCopied(false), 2000); // Reset copied state after 2 seconds
   };
@@ -29,7 +29,7 @@ const Home = () => {
         <p className="text-lg sm:text-xl font-semibold mb-2">MoonPug Token Address</p>
         <div className="flex items-center justify-center space-x-3">
           <p className="text-yellow-400 text-sm sm:text-base break-all">
-            0x1234567890abcdef1234567890abcdef12345678
+            will add soon
           </p>
           <button
             onClick={handleCopy}
