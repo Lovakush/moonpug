@@ -28,7 +28,7 @@ const Header = () => {
             How to Buy
           </a>
           <a
-            href="https://pump.fun"
+            href="https://pump.fun/coin/DqWf15Ep924FRsz3zYZoGQSDbmS5JWZ95L6X6pKnpump"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-red-500 hover:bg-red-600 text-white px-4 py-2 rounded-lg"
@@ -84,7 +84,7 @@ const Header = () => {
             How to Buy
           </a>
           <a
-            href="https://pump.fun"
+            href="https://pump.fun/coin/DqWf15Ep924FRsz3zYZoGQSDbmS5JWZ95L6X6pKnpump"
             target="_blank"
             rel="noopener noreferrer"
             className="block py-2 bg-red-500 hover:bg-red-600 text-center text-white rounded-lg"
